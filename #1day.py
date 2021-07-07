@@ -1,0 +1,1 @@
+print("interesting day with python and 69 others\nneek em ana problem ah\nunna parle")
